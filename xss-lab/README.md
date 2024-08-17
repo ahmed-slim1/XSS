@@ -14,7 +14,7 @@ Welcome to the XSS Lab project! This repository contains a set of 10 levels desi
 To run the XSS Lab locally, follow these steps:
 
 **Clone the Repository:**```bash
-   git clone https://github.com/yourusername/xss-lab.git
+   git clone https://github.com/ahmed-slim1/XSS/xss-lab.git
 
 **Set Up a Local Server:
 
