@@ -13,14 +13,15 @@ Welcome to the XSS Lab project! This repository contains a set of 10 levels desi
 
 To run the XSS Lab locally, follow these steps:
 
-1. **Clone the Repository:**```bash
-   git clone https://github.com/ahmed-slim1/XSS/xss-lab.git
+1. Clone the Repository:**```bash
 
-2. **Set Up a Local Server:
+ git clone https://github.com/ahmed-slim1/XSS/xss-lab.git
+
+3. Set Up a Local Server:
 
 The project is designed to be run on a PHP server. You can use a local server like XAMPP, WAMP, or MAMP. Place the project directory in the htdocs (or equivalent) directory of your local server.
 
 
-3. **Access the Lab:
+3. Access the Lab:
 
 Open your web browser and navigate to http://localhost/xss-lab to start exploring the challenges.
